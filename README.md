@@ -1,5 +1,7 @@
 # Durable Chat App
 
+![Aliasist banner](https://raw.githubusercontent.com/aliasist/aliasistabductor/master/images/aliasist_banner_orbit.png)
+
 Aliasist uses this repo as a real-time chat template.
 
 It provides:
